@@ -1,4 +1,4 @@
-# Binary-Classification
+# Binary Classification, Model Evaluation
 
 "binary_classifier.py" trains multiple binary classifiers using the fetch_covtype dataset. This example demonstrates the functionality of the "binary_classification.m" module for evaluating the performance of binary classifiers.
 
